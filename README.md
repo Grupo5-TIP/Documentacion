@@ -1,5 +1,3 @@
-# Documentacion
+# Repo del frontend para la aplicación RestoAdmin de la materia TIP para la Universidad Nacional de Quilmes
 
-## Repo del frontend para la aplicación RestoAdmin de la materia TIP para la Universidad Nacional de Quilmes.
-
-[logo](images/iconoRestoAdmin.PNG)
+<img src="images/iconoRestoAdmin.PNG" width="150" height="120" alt="logo">
