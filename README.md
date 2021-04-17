@@ -1,6 +1,6 @@
 # Easyfood
 
-<img src="images/EasyFoodOriginal.png" width="150" height="120" alt="logo">
+<img src="images/EasyFoodOriginal.png" width="150" height="150" alt="logo">
 
 ## Repo del frontend para la aplicación RestoAdmin de la materia TIP para la Universidad Nacional de Quilmes.
 
