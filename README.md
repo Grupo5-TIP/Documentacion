@@ -11,9 +11,9 @@
 
 ## Motivación
 
-Dada la situación actual por la pandemia producida por el virus SARS-CoV-2 se presentaron diferentes necesidades para comercios gastronómicos los cuales necesitaban una manera de poder ofrecer sus platos y a la vez reducir el contacto e interacción que tenían los mozos con los clientes cuando querian realizar sus pedidos.
+Dada la situación actual por la pandemia producida por el virus SARS-CoV-2 se presentaron diferentes necesidades para comercios gastronómicos los cuales necesitaban una manera de poder ofrecer sus platos y a la vez reducir el contacto e interacción que tenían los mozos con los clientes cuando querían realizar sus pedidos.
 
-La problemática consiste en que evitar al mínimo el contacto con superficies, es por ello que los locales tuvieron que reemplazar el menú físico por uno virtual que se visualiza al escanear un código QR. Pero esto no era suficiente, ya que el mozo debía acercarse a las n mesas asignadas pr turno para tomar el pedido y cobrar el total de la mesa, lo que hacia que se produzcan varios acercamientos sin poder conseguir un distanciamiento acorde en los establecimientos gastronómicos.
+La problemática consiste en que evitar al mínimo el contacto con superficies, es por ello que los locales tuvieron que reemplazar el menú físico por uno virtual que se visualiza al escanear un código QR. Pero esto no era suficiente, ya que el mozo debía acercarse a las n mesas asignadas por turno para tomar el pedido y cobrar el total de la mesa, lo que hacía que se produzcan varios acercamientos sin poder conseguir un distanciamiento acorde en los establecimientos gastronómicos.
 
 Con EasyFood queremos venir a solventar estos dos problemas: ofrecer un menú virtual el cual el cliente escanea un código QR, además que se capaz de autogestionarse su pedido y solicitar el cierre de la mesa.
 Por otro lado el mozo tendrá visualización real del estado de las mesas, ya sea cuando están abiertas, cerradas y a cuales llevarles la cuenta.
@@ -33,7 +33,7 @@ El servidor web esta configurado para correr sobre localhost configurado en el p
 ### Tecnologias
 
 - React: para el frontend utilizamos ReactJS utilizando JavaScript, por su facilidad para crear elementos visuales y reutilizables.
-- Spring: Como framework, que a pesar de su pequeña curva de aprendizaje, nos facilita el desarrollo de la aplicación dado por su facilidad para poder crear controllers con sus diferentes servicios y poder levantar y orquestar un backend con una mínima configuración como asi también con funcionalides que nos provee (AOP, DI, contenedor web y abstracciones para acceso a los datos) simplificado la sintáxis.
+- Spring: Como framework, que a pesar de su pequeña curva de aprendizaje, nos facilita el desarrollo de la aplicación dado por su facilidad para poder crear controllers con sus diferentes servicios y poder levantar y orquestar un backend con una mínima configuración como asi también con funcionalides que nos proveé (AOP, DI, contenedor web y abstracciones para acceso a los datos) simplificando la sintáxis.
 - Maven: Como manejador de dependencias
 - Java: Utilizamos Java como el lenguaje de nuestro backend por el conocimiento del mismo, su fácil integración con Spring y portabilidad cross SO por correr sobre una JVM.
 - Bases de datos: Uso de H2 para almacenamiento de información.
