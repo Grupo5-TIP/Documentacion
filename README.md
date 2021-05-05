@@ -44,7 +44,7 @@ El servidor web esta configurado para correr sobre localhost configurado en el p
 
 ## CI
 
-// TODO
+- Uso de Travis en backend
 
 
 ## Entregas
@@ -60,3 +60,10 @@ Cada entrega costará de una wiki particular para poder mantener el orden
 - [Entrega Sprint 3](https://github.com/Grupo5-TIP/documentacion/wiki/#)
 
 - [Entrega Sprint 4](https://github.com/Grupo5-TIP/documentacion/wiki/#)
+
+
+
+| Miembros            | Github |
+|---------------------|--------|
+| Pablo Marrero       | (https://github.com/PabloGMarrero)       |
+| Mariano Pais | (https://github.com/paismariano)       |
