@@ -53,7 +53,7 @@ Cada entrega costará de una wiki particular para poder mantener el orden
 
 - [Entrega PoC](https://github.com/Grupo5-TIP/documentacion/wiki/Entrega-PoC)
 
-- [Entrega Sprint 1](https://github.com/Grupo5-TIP/documentacion/wiki/#)
+- [Entrega Sprint 1](https://github.com/Grupo5-TIP/documentacion/wiki/Entrega-Sprint-1)
 
 - [Entrega Sprint 2](https://github.com/Grupo5-TIP/documentacion/wiki/#)
 
