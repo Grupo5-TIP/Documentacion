@@ -59,7 +59,7 @@ Cada entrega costará de una wiki particular para poder mantener el orden
 
 - [Entrega Sprint 3](https://github.com/Grupo5-TIP/documentacion/wiki/Entrega-Sprint-3)
 
-- [Entrega Sprint 4](https://github.com/Grupo5-TIP/documentacion/wiki/#)
+- [Entrega Sprint 4](https://github.com/Grupo5-TIP/documentacion/wiki/Entrega-Sprint-4)
 
 
 
