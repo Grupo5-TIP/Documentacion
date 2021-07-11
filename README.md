@@ -61,6 +61,9 @@ Cada entrega costará de una wiki particular para poder mantener el orden
 
 - [Entrega Sprint 4](https://github.com/Grupo5-TIP/documentacion/wiki/Entrega-Sprint-4)
 
+- [Diagrama UML](https://github.com/Grupo5-TIP/documentacion/wiki/Diagrama-UML)
+
+- [Diagrama de Arquitectura](https://github.com/Grupo5-TIP/documentacion/wiki/Diagrama-de-arquitectura)
 
 
 | Miembros            | Github |
