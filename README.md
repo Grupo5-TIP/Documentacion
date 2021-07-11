@@ -23,7 +23,7 @@ Por otro lado el mozo tendrá visualización real del estado de las mesas, ya se
 
 ### Arquitectura
 
-<img src="images/Arquitectura.png" width="1200" height="400" alt="arquitectura">
+<img src="https://i.imgur.com/5Fe1NOL.jpg" width="1200" height="400" alt="arquitectura">
 
 La aplicación está dividida en dos grandes partes, por un lado tenemos un client web y por otra un servidor que manejará toda la lógica de negocio.
 El cliente web permitirá visualizar los menúes a los clientes, visualizar las mesas a los mozos y además gestionar reportes para el encargado/a dueño/a. Todos estos pedidos estarán conectados al servidor el cual los recibirá y gestionará devolviendo la información solicitada.
